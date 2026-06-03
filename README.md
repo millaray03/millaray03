@@ -1,6 +1,7 @@
 ### Hi there ✨ 
-Hi my name is Millaray 
-###Estudiante de Ingeniería civil en Informática 
+Hi my name is Millaray  
+
+Estudiante de Ingeniería civil en Informática 
 <!--
 **millaray03/millaray03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
